@@ -3,6 +3,7 @@
  * @author Jan Kulose, s0557320@htw-berlin.de
  *
  */
+
 public class TestPoint {
 	public static void main(String[] args) {
 		Point p1 = new Point(5, 7);
